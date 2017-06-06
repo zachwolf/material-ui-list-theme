@@ -1,0 +1,20 @@
+{
+  "name": "material-ui-list-theme",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "material-ui": "1.0.0-alpha.16",
+    "material-ui-icons": "1.0.0-alpha.3",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
